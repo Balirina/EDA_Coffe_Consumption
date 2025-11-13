@@ -34,15 +34,14 @@ Este análisis exploratorio 🚀 busca examinar las complejas relaciones entre e
 ---
 
 ## 🚀 Hipótesis
-    | ID | Hipótesis |
-   |----|-----------|
-   | H1 | Italia y Brazil son los paises donde más café se consume. |
-   | H2 | Entre el consumo de cafeína y la calidad del sueño existe una correlación negativa. |
-   | H3 | Hay diferencias significativas en el consumo del café, nivel del estrés y calidad del sueño por genero. |
-   | H4 | Los adultos (18-55) toman más café y duermen menos horas que los mayores(56-80). |
-   | H5 | Las horas fisicamente activas se correlacionan positivamente con la calidad del sueño, pero negativamente con el IMC y el nivel del estres. |
-   | H6 | Los estudiantes y el personal medico son los que menos duermen y mas café consumen. |
-   | H7 | Las personan que fuman y toman alcool consumen más café. |
+
+   | H1 | Italia y Brazil son los paises donde más café se consume. 
+   | H2 | Entre el consumo de cafeína y la calidad del sueño existe una correlación negativa. 
+   | H3 | Hay diferencias significativas en el consumo del café, nivel del estrés y calidad del sueño por genero. 
+   | H4 | Los adultos (18-55) toman más café y duermen menos horas que los mayores(56-80). 
+   | H5 | Las horas fisicamente activas se correlacionan positivamente con la calidad del sueño, pero negativamente con el IMC y el nivel del estres. 
+   | H6 | Los estudiantes y el personal medico son los que menos duermen y mas café consumen. 
+   | H7 | Las personan que fuman y toman alcool consumen más café. 
 
 ---
 
