@@ -181,7 +181,7 @@ df_h2 = df.groupby('Sleep_Quality').mean('Sleep_Hours').round(2).sort_values('Sl
 plt.figure(figsize=(8, 4))
 ax = sns.barplot(data=df_h2, y='Coffee_Intake', x='Sleep_Hours',hue=df_h2.index, hue_order=['Poor', 'Fair', 'Good', 'Excellent'])
 
-plt.title('Calidad del sueño por grupo de edad',fontweight='bold', fontsize=14)
+plt.title('Relación de los mg de cafeína y el sueño',fontweight='bold', fontsize=14)
 plt.xlabel('Horas de sueño')
 plt.ylabel('mg de cafeina')
 plt.tight_layout()
@@ -334,6 +334,7 @@ sns.boxplot(
     x='Physical_Activity_Hours',
     y='Categoria_BMI',
     hue='Stress_Level_num',
+    order=['Bajo peso', 'Peso saludable', 'Sobrepeso', 'Obesidad'],
     palette=[colores_cafe[18], colores_cafe[12],colores_cafe[4]],
     )
 plt.title('Distribución de las horas fisicamente activas segun las categorias del IMC')

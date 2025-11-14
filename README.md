@@ -70,6 +70,12 @@ python main.py  # guarda gráficos en /outputs y CSVs intermedios en /data
 
 ---
 
+### Presentaciíon en Prezi:
+
+([link](https://prezi.com/p/edit/diphksk5ra9n/))
+
+---
+
 ## ✍️ Author
 
 Proyecto elaborado por **Irina Balica**
